@@ -1,0 +1,2 @@
+.fc-cell-overlay
+<td id='dtImg"+id+"'><img src='../../scripts/images/loading.gif' height='18px;'></img></td>
